@@ -24,6 +24,8 @@ Chapter 3 code_Project_75 The second part 2 of "The Arduino World Book" code_Pro
 # SKU:SEN0214 .Gravity Analog 20A current sensor
 ![22](https://user-images.githubusercontent.com/35774039/160259372-298a147e-407e-41a3-a231-2395baec2015.JPG)
 ![SEN0214-CONNET (1)](https://user-images.githubusercontent.com/35774039/160259380-d5ea958e-00e5-4ca7-9638-d5dafb3fd56e.png)
+![2ي](https://user-images.githubusercontent.com/35774039/160259592-f71fcd0a-093b-4c55-b53f-54c674dea25a.JPG)
+
 
 # Analog AC Current Sensor (20A)
 ![51iB4D-H3yL _SL1000_](https://user-images.githubusercontent.com/35774039/160259385-02e783c5-3fa6-4267-a181-0e2224499bd8.jpg)
@@ -32,7 +34,6 @@ Chapter 3 code_Project_75 The second part 2 of "The Arduino World Book" code_Pro
 
 When you want to measure AC current, you still have trouble cutting wires, wires, or soldering. Gravity: An analog AC sensor comes to the rescue, eliminating the need to cut wires or reconnect circuits. Simply install the AC adapter probe on the AC power line, then plug the 3.5mm headphone jack into the signal conversion module to read the current AC value. The analog output is designed to be compatible with the 3V3 / 5V micro-controller. It can be easily used to measure AC current to monitor AC motors, lighting equipment, air compressors, etc.
 
-![2ي](https://user-images.githubusercontent.com/35774039/160259592-f71fcd0a-093b-4c55-b53f-54c674dea25a.JPG)
 ![36](https://user-images.githubusercontent.com/35774039/160259601-2ecc2333-edac-492a-9e7e-f37f603d95b5.JPG)
 
 
