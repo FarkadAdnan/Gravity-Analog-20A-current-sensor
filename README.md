@@ -36,5 +36,30 @@ When you want to measure AC current, you still have trouble cutting wires, wires
 
 ![36](https://user-images.githubusercontent.com/35774039/160259601-2ecc2333-edac-492a-9e7e-f37f603d95b5.JPG)
 
+# FEATURES
+Non-contact measurement, high safety
+Multiple ranges for various measurement scenarios
+Compatible with 3V3/5V micro-controller
+# APPLICATIONS
+AC motor automatic monitoring
+Lighting and electrical equipment measurement
+# SPECIFICATION
+AC Current Signal Conversion Module
+Input Voltage (VCC): 3.3V-5.5V
+Interface: Gravity Analog (PH2.0-3P，analog voltage output 0.2-2.8V DC)
+AC Voltage Input Range: 0-1V (AC RMS)
+Relative Error: ±4%
+Dimension: 32×27 mm /1.26×1.06 in
+Weight: 5g
+Open Type AC Transformer Probe
+AC Current Range: 0-20A
+Signal Output (standard Φ3.5mm 3P plug): 0-1V AC voltage, linear corresponding range 0-20A
+Accuracy: ±1%
+Non-linearity: ≤±0.2%
+Frequency Range: 50Hz~1kHz
+Cable Length: 1m
+Working Temperature: -25 ℃~+70 ℃
+Opening Size: 13×13 mm / 0.51×0.51 in
+Weight: 50g
 
 
